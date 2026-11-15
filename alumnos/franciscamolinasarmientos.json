@@ -1,0 +1,15 @@
+{
+  "usuario": "franciscamolinasarmientos",
+  "nombre": "Francisca Molina Sarmientos",
+  "frase": "SaWaDiKa",
+  "emoji": "🩷",
+  "color": "#ffd1dc",
+  "misiones": {
+    "node": true,
+    "nextTailwind": false,
+    "v0": false,
+    "opencode": false,
+    "supabase": false
+  },
+  "promptFavorito": ""
+}
