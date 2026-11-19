@@ -9,7 +9,7 @@
     "nextTailwind": true,
     "v0": true,
     "opencode": true,
-    "supabase": false
+    "supabase": true
   },
   "promptFavorito": "Lee src/app/alumnos/franciscamolinasarmientos/page.tsx. Crea un componente cliente Reacciones.tsx en esa misma carpeta con 3 botones de emoji que cuenten clics, y agrégalo donde dice MISIÓN 4."
 }
