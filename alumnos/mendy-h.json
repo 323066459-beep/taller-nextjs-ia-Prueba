@@ -9,7 +9,7 @@
     "nextTailwind": true,
     "v0": true,
     "opencode": true,
-    "supabase": false
+    "supabase": true
   },
   "promptFavorito": "Explícame paso a paso cómo estructurar y validar un sistema en Next.js y TypeScript manteniendo un código limpio y fácil de mantener."
 }
