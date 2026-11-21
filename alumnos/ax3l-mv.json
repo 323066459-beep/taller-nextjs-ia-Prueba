@@ -1,0 +1,15 @@
+{
+  "usuario": "ax3l-mv",
+  "nombre": "Axel Enrique Morales Villalon",
+  "frase": "El weso",
+  "emoji": "🤍",
+  "color": "#D4AF37",
+  "misiones": {
+    "node": true,
+    "nextTailwind": false,
+    "v0": false,
+    "opencode": false,
+    "supabase": false
+  },
+  "promptFavorito": ""
+}
