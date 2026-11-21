@@ -11,5 +11,5 @@
     "opencode": true,
     "supabase": false
   },
-  "promptFavorito": ""
+  "promptFavorito": "Explícame paso a paso cómo estructurar y validar un sistema en Next.js y TypeScript manteniendo un código limpio y fácil de mantener."
 }

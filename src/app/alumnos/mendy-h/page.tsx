@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAlumno } from "@/lib/alumnos";
 import { ComponenteV0 } from "./ComponenteV0";
+import { Reacciones } from "./Reacciones";
 
 const USUARIO = "mendy-h";
 
@@ -50,6 +51,11 @@ export default function PaginaAlumno() {
           Pega el componente que generaste en v0 dentro de ComponenteV0.tsx (misma carpeta). */}
       <section className="mt-10">
         <ComponenteV0 />
+      </section>
+
+      <section className="mt-10" style={{ color: "#c084fc" }}>
+        <h2 className="mb-4 text-xl font-semibold">Reacciones</h2>
+        <Reacciones />
       </section>
 
       {/* ───────── MISIÓN 4 · OpenCode + NVIDIA ─────────
