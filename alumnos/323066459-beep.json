@@ -1,0 +1,15 @@
+{
+  "usuario": "323066459-beep",
+  "nombre": "Julián",
+  "frase": "God bless Israel",
+  "emoji": "🎧",
+  "color": "#22d3ee",
+  "misiones": {
+    "node": true,
+    "nextTailwind": false,
+    "v0": false,
+    "opencode": false,
+    "supabase": false
+  },
+  "promptFavorito": ""
+}
